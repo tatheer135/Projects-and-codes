@@ -1,4 +1,4 @@
-#currency calculator 
+#Currency calculator 
 
 def currency_calculator():
     fro=int(input("Input currency in INR: "))
